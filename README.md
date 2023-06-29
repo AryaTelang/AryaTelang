@@ -53,7 +53,7 @@
 
 <br/>
 
-<img src="https://github.com/AryaTelang/AryaTelang/blob/main/gato-cat.gif" width="350" align='right'>
+<!--<img src="https://github.com/AryaTelang/AryaTelang/blob/main/gato-cat.gif" width="350" align='right'>-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaTelang&show_icons=true)
 
