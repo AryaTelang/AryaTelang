@@ -37,9 +37,9 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>😸 To Learn</h3>
 
-- 🔧 &nbsp; Kotlin App Development | Web Development | Firebase | 
+- (；′⌒`)&nbsp; Kotlin App Development | Web Development | Firebase | 
 
 <hr>
 
