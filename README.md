@@ -7,6 +7,8 @@
 
 
 - 🔍 &nbsp; I like to code UwU
+  
+- 😎 &nbsp; A silly joke: To understand recursion, you must understand recursion.
 
 - 🥴 &nbsp; Third Year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.
 
