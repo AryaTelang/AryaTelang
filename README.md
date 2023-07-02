@@ -49,7 +49,9 @@
 
 <br/><br/>
 
-[![Arya's GitHub Stats](https://streak-stats.demolab.com/?user=AryaTelang)](https://git.io/streak-stats)
+[![Arya's GitHub Stats](https://streak-stats.demolab.com/?user=AryaTelang&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaTelang&layout=compact&theme=radical)
 
 <br/>
 
@@ -57,7 +59,7 @@
 
 <img src="https://github.com/AryaTelang/AryaTelang/blob/main/gato-cat.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaTelang&show_icons=true)
+
 
 <br><br>
 
@@ -92,4 +94,13 @@
 
 
 
+The snake is eating up my contributions🐍.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
 <hr>
