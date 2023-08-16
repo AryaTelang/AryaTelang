@@ -39,12 +39,6 @@
 
 
 
-<h3>😸 To Learn</h3>
-
-- (；′⌒`)&nbsp; Kotlin App Development | Web Development 
-
-<hr>
-
 
 
 <br/><br/>
