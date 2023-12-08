@@ -2,29 +2,6 @@
 
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
-<h3> (✿◡‿◡) About Me </h3>
-
-
-
-- 🔍 &nbsp; I like to code UwU
-  
-- 😎 &nbsp; A silly joke: To understand recursion, you must understand recursion.
-
-- 🥴 &nbsp; Third Year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.
-
-- 🦋 &nbsp; Learning Flutter, Machine Learning (OpenCV and NLP) as well as Kotlin.
-
-- 🐻‍❄ &nbsp; Participated in some hackathons.
-
-
-
-<h3>╮(╯▽╰)╭ Tech Stack</h3>
-
-
-
-- &nbsp;Python | Java | C | Flutter | HTML 
-
-- &nbsp;Briefly Done : MySQL | Flask | NLP | Kotlin  
 
 
 <!--
