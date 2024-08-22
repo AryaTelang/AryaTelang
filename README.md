@@ -1,4 +1,4 @@
-### Hey There :) 👋<h2> I'm Arya Telang</h2>
+### Hey There :) 👋<h2> I'm Arya </h2>
 
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
