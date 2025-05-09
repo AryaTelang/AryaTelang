@@ -28,8 +28,6 @@
 
 <br/>
 
-<img src="https://github.com/AryaTelang/AryaTelang/blob/main/gato-cat.gif" width="350" align='right'>
-
 
 
 <br><br>
@@ -40,7 +38,6 @@
 
 
 
-<h3> 😸Find me on: </h3>
 
 <br>
 
